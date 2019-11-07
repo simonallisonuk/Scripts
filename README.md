@@ -2,7 +2,7 @@
 
 Autopilot 
 
-ust a Tip from me to make it easier  (if you got other ways, let me know, would be interested) 
+Just a Tip from me to make it easier  (if you got other ways, let me know, would be interested) 
 
  
 
