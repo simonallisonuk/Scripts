@@ -22,13 +22,13 @@ Right Click the file ..GetAutoPilot.cmd and (run as Administrator)   (it seems e
 
  
 
-Prepare Files 
+Prepare the files 
 
  
 
 1) GetAutoPilot.cmd
 
-2) Download a copy of Get-WindowsAutoPilotInfo.ps1
+2) Download a copy of Get-WindowsAutoPilotInfo.ps1 (see below)
 
  
 
@@ -44,7 +44,7 @@ PowerShell -NoProfile -ExecutionPolicy Unrestricted -Command %~dp0\Get-WindowsAu
 
 Get-WindowsAutoPilotInfo.ps1 - downloaded from powershellgallery  
 
-https://www.powershellgallery.com/packages/Get-WindowsAutoPilotInfo/1.6
+https://www.powershellgallery.com/packages/Get-WindowsAutoPilotInfo/
 
  
 
